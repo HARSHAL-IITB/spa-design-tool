@@ -1,0 +1,7 @@
+# Material file for Ogden3 fit to UniaxialPlanar data.
+matname:    ecoflex30
+density:    0.00107
+model:      ogden
+order:      3
+params:     0.001887 -3.848 0.02225 0.6632 0.003574 4.225
+nu:         0.48

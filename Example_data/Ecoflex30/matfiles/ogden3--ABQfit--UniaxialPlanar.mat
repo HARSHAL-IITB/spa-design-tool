@@ -1,0 +1,9 @@
+# Material file for Ogden3 fit to UniaxialPlanar data.
+# Fit was calculated using the ABQ material evaluation option,
+# given the experimental data for uni and planar tests.
+matname:    ecoflex30abq
+density:    0.00107
+model:      ogden
+order:      3
+params:     1.889719961E-02 2.21984157 1.968143753E-06 12.4880895 8.257131343E-03 -2.10908712
+nu:         0.48

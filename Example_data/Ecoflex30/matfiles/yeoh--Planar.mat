@@ -1,0 +1,9 @@
+# Material file for Yeoh fit to Planar data.
+# Note: matname and density fields will be used while creating Abaqus input files.
+# Parameters are: C10 C20 C30
+# Units should probably be N/mm^2 (depending on the model). Some parameters may be unitless.
+matname: ecoflex30
+density: 0.00107
+model:   yeoh
+params:  0.0111122390596 -0.000108690462634 2.33374558269e-05
+D:       3.64827829235 0.0 0.0

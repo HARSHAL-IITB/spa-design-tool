@@ -1,0 +1,5 @@
+# Material file for viscoelastic fit with 2 terms.
+# Values are given in dimensionless form.
+G0:  0.0189062803046
+g:   0.0118756461643 0.016852333536
+tau: 1.2608679394 12.7761944829

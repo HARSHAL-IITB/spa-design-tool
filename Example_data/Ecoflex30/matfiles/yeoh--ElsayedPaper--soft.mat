@@ -1,0 +1,10 @@
+# Material file for Yeoh fit to UniaxialPlanar data.
+# Parameter values come from "FEA and Design Optimization of a Pneumatically
+# Actuating Silicone Module for Robotic Surgery Applications.", Elsayed et al 2014.
+# Units were originally in J/m^3, now in N/mm^2 (multiplied by 1e-6).
+# matname and density fields will be used while creating Abaqus input files.
+matname: ecoflex30elsayed
+density: 0.00107
+model:   yeoh
+params:  0.005072 -0.000331 -0.000015
+nu:      0.45

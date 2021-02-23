@@ -1,0 +1,8 @@
+# Material file for Ogden-6 fit to UniaxialPlanar data.
+# matname and density fields will be used while creating Abaqus input files.
+matname: ecoflex30
+density: 0.00107
+model:   ogden
+order:   6
+params:  0.410157868844 1.52712180372 -0.0537788453278 -0.578120818816 0.000255166840025 -6.58080204752 -0.549273235865 1.04356250157 0.526853573057 0.551728201938 -0.306371735456 1.16072168693
+nu:      0.48

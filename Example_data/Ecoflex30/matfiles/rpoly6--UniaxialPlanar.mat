@@ -1,0 +1,8 @@
+# Material file for Reduced-Polynomial-6 fit to UniaxialPlanar data.
+# matname and density fields will be used while creating Abaqus input files.
+matname: ecoflex30
+density: 0.00107
+model:   rpoly
+order:   6
+params:  0.0140073056567 -0.000437184240197 0.000140436677253 -6.91595993807e-08 3.57571555954 4.53238629922
+nu:      0.48
